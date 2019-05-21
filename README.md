@@ -1,2 +1,4 @@
 # hello-world
-Mitt eget repository
+Hei sann!
+Dette er mitt eget repository
+Dette en en første test / opplæring for meg
